@@ -39,7 +39,7 @@
         "biographyDescription": [
             {
                 "type": "p",
-                "text": "I'm Didier Dafond and I'm a Full-Stack Developer since 2014. I like to experiment and work in team to keep up to date with new technologies. I have also a good electronic knowledge thanks to the high school's technical address. I have high expectations for myself and a strong work ethics. I always do my best by striving for the finest result without forgetting to pay attention to details."
+                "text": "I'm Didier Dafond and I'm a Full-Stack Developer since 2014. I like to work in team and experiment to keep up to date with new technologies. I have also a good electronic knowledge thanks to the high school's technical address. I have high expectations for myself and a strong work ethics. I always do my best by striving for the finest result without forgetting to pay attention to details."
             },
             {
                 "type": "p",
@@ -395,7 +395,7 @@
             "level": 4,
             "imageUrl": "/logos/redux.svg",
             "url": "https://redux-toolkit.js.org/",
-            "name": "Redux and Saga",
+            "name": "Redux Toolkit",
             "tooltip": "Knowledge level",
             "description": "A more efficient approach to asynchronous tasks with Redux."
         },
