@@ -510,6 +510,17 @@
             "description": "I use Docker as user but I also work with it with my home server."
         },
         {
+            "code": "ansible",
+            "enabled": true,
+            "main": false,
+            "level": 3,
+            "imageUrl": "/logos/ansible.svg",
+            "url": "https://www.ansible.com/",
+            "name": "Ansible",
+            "tooltip": "Knowledge level",
+            "description": "A tool to automate my homelab processes and configurations."
+        },
+        {
             "code": "unraid",
             "enabled": true,
             "main": false,
