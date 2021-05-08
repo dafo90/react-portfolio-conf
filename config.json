@@ -111,12 +111,6 @@
                 "main": true
             },
             {
-                "id": 218816700,
-                "name": "Docker - vsftpd",
-                "enabled": true,
-                "main": false
-            },
-            {
                 "id": 230647506,
                 "name": "Raspberry Pi Scripts",
                 "enabled": true,
@@ -124,8 +118,15 @@
                 "description": "Raspberry Pi Scripts to manage power on/off button and one fan in PWM mode"
             },
             {
-                "id": 142853515,
-                "name": "Caldera Forms Anti Spam",
+                "id": 328435262,
+                "name": "Docker Mods",
+                "enabled": true,
+                "main": false,
+                "description": "My personal Docker Mods for linuxserver Dockers"
+            },
+            {
+                "id": 291340730,
+                "name": "Robo 3T Linux Installer",
                 "enabled": true,
                 "main": false
             }
